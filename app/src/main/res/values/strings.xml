@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ActivitiesCommunication</string>
+    <string name="insert_message">Ingresa un mensaje</string>
+    <string name="send">Enviar</string>
 </resources>
