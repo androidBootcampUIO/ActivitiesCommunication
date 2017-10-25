@@ -2,4 +2,5 @@
     <string name="app_name">ActivitiesCommunication</string>
     <string name="insert_message">Ingresa un mensaje</string>
     <string name="send">Enviar</string>
+    <string name="received_message_description">El mensaje recibido es:</string>
 </resources>
